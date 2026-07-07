@@ -5,4 +5,5 @@
 | D0, D1, D2        | DATA  |
 | GND           | GND   |
 
-<img width="7680" height="4320" alt="image" src="https://github.com/user-attachments/assets/d6b67188-60c7-4dd7-93c3-be3a5adcb910" />
+<img width="666" height="375" alt="image" src="https://github.com/user-attachments/assets/47c3dbe8-5b73-49ef-bec9-fe72c5aa5b11" />
+
