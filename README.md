@@ -19,3 +19,4 @@ Powerful peripherals: 12 capacitive touch sensors, USB-OTG, and camera interface
 Low Power Consumption: Ultra-low power modes for battery-powered applications.
 
 Compact Size: Small form factor (21x17.5mm) perfect for compact and wearable devices.
+<img width="1400" height="1050" alt="image" src="https://github.com/user-attachments/assets/c422c37b-380d-456f-afec-966b2c63f95a" />
