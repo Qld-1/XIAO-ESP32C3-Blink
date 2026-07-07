@@ -18,7 +18,7 @@ The Seeed Studio XIAO ESP32S3 is a compact and powerful development board thatâ€
 
 - Low Power Consumption: Ultra-low power modes for battery-powered applications.
 
-Compact Size: Small form factor (21x17.5mm) perfect for compact and wearable devices.
+- Compact Size: Small form factor (21x17.5mm) perfect for compact and wearable devices.
 <img width="1400" height="1050" alt="image" src="https://github.com/user-attachments/assets/c422c37b-380d-456f-afec-966b2c63f95a" />
 
 
