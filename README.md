@@ -1,27 +1,67 @@
-# XIAO-ESP32C3-Blink
+# Seeed XIAO ESP32-C3
 
-The Seeed Studio XIAO ESP32S3 is a compact and powerful development board that’s part of the XIAO family by Seeed Studio. It is based on the ESP32-S3 microcontroller, which is designed for IoT, AI, and wearable applications. This tiny board features dual-core processing power, built-in Wi-Fi, and Bluetooth capabilities, making it an ideal choice for advanced projects. Key features include:
+The **Seeed XIAO ESP32-C3** is a compact, low-power microcontroller board designed for embedded and IoT applications. It combines wireless connectivity, high performance, and a rich set of peripherals in an ultra-small form factor.
 
-- Powerful CPU: Dual-core Tensilica LX7 microcontroller, operating up to 240MHz with 512KB SRAM.
+## Key Features
 
-- Large Storage: 8MB of Flash memory for code and data storage.
+* ESP32-C3 microcontroller from Espressif Systems
+* Single-core 32-bit RISC-V processor running up to 160 MHz
+* 400 KB SRAM and 4 MB on-board Flash memory
+* Integrated 2.4 GHz Wi-Fi (802.11 b/g/n)
+* Bluetooth® 5.0 Low Energy (BLE)
+* USB Type-C with native USB Serial/JTAG support
+* Up to 11 multifunction GPIO pins
+* 2 × UART interfaces
+* 2 × SPI interfaces
+* 1 × I²C interface
+* 6 × 12-bit ADC channels
+* PWM support on most GPIO pins
+* Hardware timers and watchdog timer
+* Deep Sleep and Light Sleep low-power modes
+* Hardware security acceleration (AES, SHA, RSA, ECC)
+* Secure Boot and Flash Encryption support
 
-- Wireless Connectivity: Integrated Wi-Fi 802.11 b/g/n and Bluetooth 5 (LE).
+# ESP32-C3
 
-- AI Capabilities: Supports AI instructions and vector extensions for machine learning applications.
+The **ESP32-C3** is a low-power, highly integrated microcontroller developed by Espressif for wireless IoT and embedded applications.
 
-- High-resolution ADC: 14-bit SAR ADC for precise analog measurements.
+## Key Features
 
-- Versatile interfaces: Includes GPIO, UART, I2C, SPI, I2S, and PWM for flexible hardware interfacing.
+* Single-core 32-bit RISC-V CPU up to 160 MHz
+* 400 KB on-chip SRAM
+* Support for external SPI Flash memory
+* DMA controller
+* Hardware random number generator (RNG)
+* Integrated Wi-Fi and Bluetooth Low Energy
+* USB Serial/JTAG interface
+* RTC timer and multiple low-power operating modes
 
-- Powerful peripherals: 12 capacitive touch sensors, USB-OTG, and camera interface.
+### Peripherals
 
-- Low Power Consumption: Ultra-low power modes for battery-powered applications.
+* 2 × UART controllers
+* 2 × SPI controllers
+* 1 × I²C controller
+* PWM (LEDC)
+* 12-bit ADC
+* GPIO interrupt support
+* Pulse Counter (PCNT)
+* RMT peripheral
+* TWAI (CAN 2.0 compatible)
+* USB Serial/JTAG
 
-- Compact Size: Small form factor (21x17.5mm) perfect for compact and wearable devices.
-<img width="1400" height="1050" alt="image" src="https://github.com/user-attachments/assets/c422c37b-380d-456f-afec-966b2c63f95a" />
+# Supported Sensors and Displays
 
+The following sensors and displays are supported by the XIAO ESP32-C3 platform:
 
-# Key Features
+* MCP9701A – Analog Temperature Sensor
+* DHT11 – Digital Temperature and Humidity Sensor
+* DHT22 – Digital Temperature and Humidity Sensor
+* DS18B20 – Digital Temperature Sensor
+* SSD1306 / SH1106 OLED Displays
+* WEA012864D OLED Display
+* GDEY029T94 E-Paper Display
+* GDEW0154Z17 E-Paper Display
 
+# About
 
+Projects based on the **Seeed XIAO ESP32-C3** development board with various sensors and displays connected through GPIO, I²C, SPI, UART, and OneWire interfaces.
