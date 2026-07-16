@@ -1,4 +1,5 @@
 # 🌡️ DS18B20 Temperature Measurement
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/1e7682f5-35b1-46a1-94b3-04e16b1f5d26" />
 
 ## 📖 Overview
 This project demonstrates how to measure temperature using the **DS18B20 digital temperature sensor** with a microcontroller (e.g., Arduino). The sensor reads the ambient temperature and displays the measured value through the Serial Monitor.
