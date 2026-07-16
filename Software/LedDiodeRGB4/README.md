@@ -12,10 +12,10 @@ Pin Configuration
 
 The 4-pin RGB LED typically has the following pins:
 
-Red (R)
-Common (Anode or Cathode)
-Green (G)
-Blue (B)
+- Red (R)
+- Common (Anode or Cathode)
+- Green (G)
+- Blue (B)
 
 
 **Note:**  Make sure to identify whether your RGB LED is **Common Anode** or **Common Cathode**, as the control logic is different.
