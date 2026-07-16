@@ -1,4 +1,6 @@
 # RGB LED (4-Pin)
+<img width="600" height="600" alt="led-diode-rgb-4-pin-600x600_0" src="https://github.com/user-attachments/assets/71cca1bc-b896-45d3-80b4-63c744168f97" />
+
 ## Description
 
 This project demonstrates how to control a 4-pin RGB LED using a microcontroller such as an Arduino. An RGB LED contains three individual LEDs—Red, Green, and Blue—which can be combined to produce a wide range of colors using PWM (Pulse Width Modulation).
