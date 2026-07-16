@@ -5,7 +5,8 @@
 | D0, D1, D2        | DATA  |
 | GND           | GND   |
 
-<img width="666" height="375" alt="image" src="https://github.com/user-attachments/assets/47c3dbe8-5b73-49ef-bec9-fe72c5aa5b11" />
+<img width="7680" height="4320" alt="image" src="https://github.com/user-attachments/assets/b621c715-c85b-475f-a3ee-b52432f1c660" />
+
 
 # Software Preparation
 ### Ardoino IDE
