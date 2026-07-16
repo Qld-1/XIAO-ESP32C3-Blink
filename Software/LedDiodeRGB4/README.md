@@ -17,6 +17,7 @@ Common (Anode or Cathode)
 Green (G)
 Blue (B)
 
+
 **Note:**  Make sure to identify whether your RGB LED is **Common Anode** or **Common Cathode**, as the control logic is different.
 
 
