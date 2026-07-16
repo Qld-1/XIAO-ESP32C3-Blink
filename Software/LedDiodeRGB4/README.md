@@ -1,4 +1,28 @@
-# Connections
+# RGB LED (4-Pin)
+## Description
+
+This project demonstrates how to control a 4-pin RGB LED using a microcontroller such as an Arduino. An RGB LED contains three individual LEDs—Red, Green, and Blue—which can be combined to produce a wide range of colors using PWM (Pulse Width Modulation).
+
+## Features
+Independent control of the Red, Green, and Blue channels.
+Create multiple colors by mixing RGB values.
+Smooth color transitions using PWM.
+Easy to integrate into Arduino and embedded systems projects.
+Pin Configuration
+
+The 4-pin RGB LED typically has the following pins:
+
+Red (R)
+Common (Anode or Cathode)
+Green (G)
+Blue (B)
+
+**Note:**  Make sure to identify whether your RGB LED is **Common Anode** or **Common Cathode**, as the control logic is different.
+
+
+
+
+## Connections
 | XIAO ESP32-C3 | DHT22 |
 |---------------|-------|
 | 3V3           | VCC   |
