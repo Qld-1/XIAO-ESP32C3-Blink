@@ -1,7 +1,7 @@
 # Seeed XIAO ESP32-C3
 
 The [Seeed XIAO ESP32-C3](https://wiki.seeedstudio.com/XIAO_ESP32S3_Getting_Started/) is a compact, low-power microcontroller board designed for embedded and IoT applications. It combines wireless connectivity, high performance, and a rich set of peripherals in an ultra-small form factor.
-<img width="1400" height="1050" alt="image" src="https://github.com/user-attachments/assets/1ccb1457-e1fa-4ecb-8dba-c6938b9d298b" />
+<img width="500" height="636" alt="image" src="https://github.com/user-attachments/assets/678f9cbf-e1d0-47e5-b78c-fee97df44dfe" />
 
 ## Key Features
 
