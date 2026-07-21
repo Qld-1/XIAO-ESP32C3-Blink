@@ -1,4 +1,5 @@
 # 🌡️ MCP9701A Temperature Sensor
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/720589a8-d395-4a55-9d4a-eb09f6063d4b" />
 
 ## 📖 Overview
 This project demonstrates how to measure temperature using the **MCP9701A analog temperature sensor** with a microcontroller (e.g., Arduino). The sensor outputs an analog voltage proportional to the ambient temperature, which is converted into a temperature value in degrees Celsius.
