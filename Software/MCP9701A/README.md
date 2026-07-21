@@ -24,6 +24,9 @@ This project demonstrates how to measure temperature using the **MCP9701A analog
 | VOUT | A0 |
 | GND | GND |
 
+<img width="214" height="254" alt="image" src="https://github.com/user-attachments/assets/18ba6931-7ca0-47ac-bc17-fa7cedd78f60" />
+
+
 ## 📚 Libraries Used
 No external libraries are required.
 
