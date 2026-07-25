@@ -1,4 +1,4 @@
-# 🖥️ GDEW0154Z17 E-Paper Display
+# GDEW0154Z17 E-Paper Display
 
 ## 📖 Overview
 This project demonstrates how to use the **GDEW0154Z17 1.54-inch three-color E-Paper Display** with a microcontroller (e.g., Arduino, ESP32, or STM32). The display communicates through the **SPI interface** and can show graphics, text, and images in **black, white, and red**. It offers ultra-low power consumption and retains the displayed image even when power is removed. :contentReference[oaicite:0]{index=0}
